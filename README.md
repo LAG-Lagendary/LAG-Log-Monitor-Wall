@@ -1,2 +1,3 @@
 # LAG-Log-Monitor-Wall
-Этот Bash-скрипт предназначен для автоматизированного мониторинга лог-файлов OpenVPN и системных логов. Он собирает последние записи из указанных логов, ищет потенциальные признаки несанкционированного доступа или ошибок, а также создает архивы собранных данных для резервного копирования. Идеально подходит длz проверки  VPN-сервера и общей системы.
+
+This Bash script is designed for automated monitoring of OpenVPN log files and system logs. It collects the latest entries from the specified logs, looks for potential signs of unauthorized access or errors, and creates archives of the collected data for backup. Ideal for checking the VPN server and the general system.
